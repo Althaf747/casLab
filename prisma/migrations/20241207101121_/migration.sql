@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE `tp` MODIFY `TanggalPost` VARCHAR(100) NOT NULL,
+    MODIFY `DeadlineTP` VARCHAR(100) NOT NULL;
